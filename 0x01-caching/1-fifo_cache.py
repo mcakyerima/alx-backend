@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ FIFOCache class that inherits from BaseCaching"""
 
 from base_caching import BaseCaching
@@ -23,7 +23,6 @@ class FIFOCache(BaseCaching):
             print(f"DISCARD: {discard}")
 
         self.cache_data[key] = item
-
 
 
     def get(self, key):
