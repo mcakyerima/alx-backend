@@ -26,7 +26,7 @@ class FIFOCache(BaseCaching):
 
         self.cache_data[key] = item
 
-
     def get(self, key):
         """ returns item that is linked to key in cache_data"""
         return self.cache_data.get(key, None)
+    
