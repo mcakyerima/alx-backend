@@ -2,7 +2,7 @@
 
 Welcome to the **ALX Backend Projects** repository! This collection features a variety of projects developed as part of the ALX backend curriculum. Dive into the code, explore different backend technologies, and contribute to the ongoing development. Let's build amazing things together! 🌟
 
-## Table of Contents 📚
+## Table of Contents 📚📝
 1. [Introduction](#introduction)
 2. [Projects](#projects)
     - [Pagination](#pagination)
